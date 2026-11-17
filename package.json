@@ -1,0 +1,11 @@
+{
+  "name": "omran-bet",
+  "version": "1.0.0",
+  "description": "راهنمای امنیت و حریم خصوصی واتساپ",
+  "main": "interactive-menu.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "node test.js"
+  },
+  "type": "commonjs"
+}
